@@ -10,7 +10,6 @@ public:
     void Start(){
 //4(Дробная часть)
         cout << "...............4.............\n";
-        //������
         double num1;
         cin >> num1;
         fractionalPart1(num1);
@@ -18,7 +17,6 @@ public:
         test_fractional_Part();
 //7(Меняет знак)
         cout << "\n...............7.............\n";
-        //������
         double num2;
         cin >> num2;
         changeSign1(num2);
@@ -26,7 +24,6 @@ public:
         test_change_sign();
 //12(Смещение круга)
         cout << "\n...............12.............\n" << endl;
-        //������
         Vector center1;
         cin >> center1.x >> center1.y;
         Vector vector1;
