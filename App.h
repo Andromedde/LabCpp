@@ -1,8 +1,8 @@
-#ifndef PROGA_LAB2_APP_H
-#define PROGA_LAB2_APP_H
+#ifndef PROGA_LAB3_APP_H
+#define PROGA_LAB3_APP_H
 
 #include <iostream>
-#include "Lab2.h"
+#include "Lab3.h"
 
 using namespace std;
 
@@ -59,4 +59,4 @@ public:
         }
     }
 };
-#endif //PROGA_LAB2_APP_H
+#endif //PROGA_LAB3_APP_H
