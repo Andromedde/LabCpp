@@ -1,4 +1,4 @@
-#include "Lab2.h"
+#include "Lab3.h"
 //2
 Vector::Vector(double x, double y)
         : m_x(x), m_y(y)
