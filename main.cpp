@@ -1,0 +1,6 @@
+#include "Lab2.h"
+#include "App.h"
+int main() {
+    (new App) ->Start();
+    return 0;
+}
