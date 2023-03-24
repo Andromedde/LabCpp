@@ -1,5 +1,5 @@
-#ifndef PROGA_LAB2_LAB2_H
-#define PROGA_LAB2_LAB2_H
+#ifndef PROGA_LAB2_LAB3_H
+#define PROGA_LAB2_LAB3_H
 #include <cmath>
 #include "vector"
 class Vector {
@@ -53,4 +53,4 @@ private:
 };
 
 
-#endif //PROGA_LAB2_LAB2_H
+#endif //PROGA_LAB2_LAB3_H
