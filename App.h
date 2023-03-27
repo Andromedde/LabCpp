@@ -8,21 +8,18 @@ using namespace std;
 class App{
 public:
     void Start(){
-//4(Дробная часть)
         cout << "...............4.............\n";
         double num1;
         cin >> num1;
         fractionalPart1(num1);
         cout << num1 << endl;
         test_fractional_Part();
-//7(Меняет знак)
         cout << "\n...............7.............\n";
         double num2;
         cin >> num2;
         changeSign1(num2);
         cout << num2 << endl; //
         test_change_sign();
-//12(Смещение круга)
         cout << "\n...............12.............\n" << endl;
         Vector center1;
         cin >> center1.x >> center1.y;
@@ -31,8 +28,6 @@ public:
         shiftCircle1(center1, vector1);
         cout << center1.x << ", " << center1.y << endl;
         test_shift();
-
-//15(Умножение матрицы)
 
         cout << "\n...............15.............\n";
 
