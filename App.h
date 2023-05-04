@@ -2,7 +2,9 @@
 #define PROGA_LAB3_APP_H
 
 #include <iostream>
-#include "Lab3.h"
+#include "Vector.h"
+#include "Square.h"
+#include "Array.h"
 
 using namespace std;
 
