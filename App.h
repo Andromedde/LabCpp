@@ -1,10 +1,12 @@
 #ifndef PROGA_LAB2_APP_H
 #define PROGA_LAB2_APP_H
+
 #include "Lab2.h"
 #include <iostream>
 #include <string>
 
 using namespace std;
+
 class App {
 public:
     void Start() {
@@ -34,4 +36,5 @@ public:
         }
     }
 };
+
 #endif //PROGA_LAB2_APP_H
