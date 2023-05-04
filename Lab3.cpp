@@ -1,4 +1,6 @@
-#include "Lab3.h"
+#include "Vector.h"
+#include "Square.h"
+#include "Array.h"
 //2
 Vector::Vector(double x, double y)
         : m_x(x), m_y(y)
