@@ -1,4 +1,6 @@
-#include "Lab3.h"
+#include "Vector.h"
+#include "Square.h"
+#include "Array.h"
 #include "App.h"
 int main() {
     (new App) ->Start();
